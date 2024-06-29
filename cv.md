@@ -6,7 +6,7 @@ Viktor Golovin
 Diskord vicek2190_27532
 
 ## BRIEF INFORMATION ABOUT YOURSELF
-I want to learn how to program, I am purposeful and learn from mistakes, in the future I want to become a programmer
+I want to learn how to program, I am purposeful and learn from mistakes, in the future I want to become a programmer. Now i study at school (6 grade).
 
 ## SKILLS
 Programming: scratch
